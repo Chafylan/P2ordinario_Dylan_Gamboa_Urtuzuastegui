@@ -3,3 +3,10 @@ table{
     width: 100%;
     background-color: rgb(196, 167, 21);
 }
+
+form{
+border-radius: 10px;
+background-color: beige;
+
+
+}
