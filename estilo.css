@@ -6,7 +6,12 @@ table{
 
 form{
 border-radius: 10px;
-background-color: beige;
+background-color: rgb(226, 226, 222);
+width: 400px;
 
+}
 
+.submit{
+border-radius: 10px;
+background-color: rgb(42, 74, 214);
 }
